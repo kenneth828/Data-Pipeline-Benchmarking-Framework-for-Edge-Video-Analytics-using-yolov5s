@@ -69,7 +69,7 @@ End-to-end containerized YOLOv5 analytics platform for real-time object detectio
 ```
 ┌─────────────────────┐
 │  Video Source       │
-│  (MP4/Webcam)  │
+│  (MP4/Webcam)       │
 └──────────┬──────────┘
            │
            ▼
@@ -119,7 +119,6 @@ End-to-end containerized YOLOv5 analytics platform for real-time object detectio
            ▼
 ┌─────────────────────────────┐
 │  Structured Logging         │
-│  (Every 10 frames)          │
 └─────────────────────────────┘
 ```
 
