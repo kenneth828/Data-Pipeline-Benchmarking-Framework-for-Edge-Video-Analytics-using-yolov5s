@@ -193,8 +193,7 @@ End-to-end containerized YOLOv5 analytics platform for real-time object detectio
 │  TFLite Interpreter         │
 │  with VX/Ethos Delegate     │
 │  ┌─────────────────────┐    │
-│  │ Internal NPU        │    │
-│  │ (VeriSilicon/Ethos) │    │
+│  │ Internal NPU        │    │    
 │  └─────────────────────┘    │
 └──────────┬──────────────────┘
            │
