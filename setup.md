@@ -10,6 +10,7 @@ Complete installation and configuration guide for the Video Analytics Benchmarki
 - [Coral Edge TPU Setup](#coral-edge-tpu-setup)
 - [Hailo-8 Setup](#hailo-8-setup)
 - [Model Conversion](#model-conversion)
+- [Troubleshooting](#troubleshooting)
 
 
 ---
